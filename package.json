@@ -1,0 +1,20 @@
+{
+  "name": "m.vk.js",
+  "version": "0.8.6",
+  "description": "Позволяет легко создавать ботов в группах ВКонтакте",
+  "main": "vk.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vk",
+    "вк",
+    "вконтакте",
+    "vkontakte",
+    "api",
+    "bot",
+    "robot"
+  ],
+  "author": "TLR",
+  "license": "MIT"
+}
