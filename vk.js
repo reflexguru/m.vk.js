@@ -2,7 +2,7 @@
 
 var restclientasync = require('./workers/ApiRequestAsync')
 var https = require('https')
-var FormData = require('form-data')
+// var FormData = require('form-data')
 let longpoll = require('./workers/LongPoll')
 var eventsemit = require('events')
 var fs = require('fs')

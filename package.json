@@ -1,6 +1,6 @@
 {
   "name": "m.vk.js",
-  "version": "0.8.6",
+  "version": "0.8.8",
   "description": "Позволяет легко создавать ботов в группах ВКонтакте",
   "main": "vk.js",
   "scripts": {
